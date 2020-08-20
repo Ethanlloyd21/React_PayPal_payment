@@ -40,4 +40,15 @@ Copy them somewhere, we'll be needing them once we get back to coding our react 
 Before moving any further let us login with our Business Sandbox Account in the PayPal Sandbox Dashboard to check the Business Account Dashboard which would look like this
 ![](images/home.PNG)
 
-So now that we have both our sandbox accounts and our PayPal app ready, you can run the repository for a test.
+## Integrating Smart Payment Buttons
+
+Before writing any code for our component we need to integrate the PayPal Smart Payment Button with our application. To do that go to the /public/index.html and paste the following code in the HEAD tag.
+
+```bash
+
+<script src="https://www.paypal.com/sdk/js?client-id=YOUR_CLIENT_ID&currency=USD"></script>
+
+```
+The Client ID is the same that you got on registering your app with PayPal in the above section. Don't forget to place the &currency=YOUR_CURRENCY after your client ID because it wouldn't work properly without it.
+
+Now you can run the above repo to test your application.
