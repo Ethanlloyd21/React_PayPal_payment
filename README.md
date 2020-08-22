@@ -52,3 +52,4 @@ Before writing any code for our component we need to integrate the PayPal Smart 
 The Client ID is the same that you got on registering your app with PayPal in the above section. Don't forget to place the &currency=YOUR_CURRENCY after your client ID because it wouldn't work properly without it.
 
 Now you can run the above repo to test your application.
+
