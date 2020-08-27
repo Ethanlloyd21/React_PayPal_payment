@@ -37,7 +37,7 @@ You'll now get access to the credentials of your app including the Client ID and
 
 Copy them somewhere, we'll be needing them once we get back to coding our react app.
 
-Before moving any further let us login with our Business Sandbox Account in the PayPal Sandbox Dashboard to check the Business Account Dashboard which would look like this
+Before moving any further let us login with our Business Sandbox Account in the PayPal Sandbox Dashboard to check the Business Account Dashboard which would look like this.
 ![](images/home.PNG)
 
 ## Integrating Smart Payment Buttons
