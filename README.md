@@ -21,8 +21,11 @@ To create them simply click on
 3. Select your Country/Region
 4. Click on Create
 
-By default the accounts will be created with terrible looking details. You can Edit them by clicking on the ... button in the Manage Accounts column.
+By default the accounts will be created with terrible looking details. You can Edit them by clicking on the button in the Manage Accounts column.
+
 You now have two PayPal Sandbox Accounts to mimic a transaction. But wait, you'll also need a PayPal app to successfully accept a payment.
+
+
 
 ## Creating PayPal App
 
